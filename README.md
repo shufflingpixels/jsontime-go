@@ -1,6 +1,6 @@
 # jsontime
 
-![](https://github.com/shufflingpixels/jsontime-go/workflows/Test/badge.svg)
+[![Test](https://github.com/shufflingpixels/jsontime-go/actions/workflows/test.yml/badge.svg)](https://github.com/shufflingpixels/jsontime-go/actions/workflows/test.yml)
 
 A [json iterator](https://github.com/json-iterator/go) extension that support custom time format.
 
